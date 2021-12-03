@@ -2,8 +2,7 @@
 
 ## I'm a Fullstack Web Developer
 
-- I make it a goal to make an engaging, performant and delightful experience for my web-based products.
-- Most of my projects are owned by their respective companies, now I am spending some time to create personal projects that the public can use.
+- I'm currently making PWA which I plan to extend into a web app. Final stage is a mobile App on IOS.
 
 - This is a newly created github account ( I have an original one ). The goal of this account is to have a better organized projects and some other improvements.
 <br />
