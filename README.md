@@ -2,7 +2,7 @@
 
 ## I'm a Fullstack Web Developer
 
-- I'm currently making PWA which I plan to extend into a web app. Final stage is a mobile App on IOS.
+- Rewriting everything into something coherent.
 
 - This is a newly created github account ( I have an original one ). The goal of this account is to have a better organized projects and some other improvements.
 <br />
