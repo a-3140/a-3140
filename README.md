@@ -2,6 +2,8 @@
 
 ## I'm a Fullstack Web Developer
 
+Old github - https://github.com/shoshin-programmer
+
 - Rewriting everything into something coherent.
 
 - This is a newly created github account ( I have an original one ). The goal of this account is to have a better organized projects and some other improvements.
