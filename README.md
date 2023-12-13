@@ -4,6 +4,8 @@
 
 Old github - https://github.com/shoshin-programmer
 
+My website: a3140.com
+
 If you don't see too much dots, it's because I am working on gitlab.
 
 <img width="321" alt="image" src="https://github.com/a-3140/a-3140/assets/94731422/7b14950d-44eb-47b7-909c-aed9e0127846">
