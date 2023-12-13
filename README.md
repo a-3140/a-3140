@@ -4,7 +4,7 @@
 
 Old github - https://github.com/shoshin-programmer
 
-My website: a3140.com
+My website: https://a3140.com
 
 If you don't see too much dots, it's because I am working on gitlab.
 
